@@ -4,8 +4,8 @@
 *A powerful approach to working with AI agents that transforms scattered knowledge into polished documentation through strategic questioning*
 
 ---
-📚 **[AI Coding Mastery Series](ai-coding-mastery-series.md)** | **Post 5 of 8**  
-⬅️ **Previous**: [Measuring AI Impact](measuring-ai-impact-beyond-gut-feeling.md) | ➡️ **Next**: [Multi-Phase Planning Documentation Bundles](multi-phase-planning-documentation-bundles.md)
+📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 5 of 8**  
+⬅️ **Previous**: [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) | ➡️ **Next**: [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)
 
 **🎯 Best For**: Content creators, documentation teams, knowledge managers  
 **⏱️ Reading Time**: 19 minutes | **🎚️ Difficulty**: Intermediate
@@ -34,7 +34,13 @@ This isn't just for software developers or technical writers. The Interview Meth
 - **Knowledge capture**: Extracting expertise from subject matter experts
 - **Content creation**: Blog posts, articles, and thought leadership pieces
 
-Understanding the strategic business context for AI adoption helps frame the Interview Method as part of broader organizational transformation. **[The AI Coding Revolution: Your Team's Survival Guide](ai-coding-revolution-team-survival-guide.md)** (15-minute read) provides essential context for positioning knowledge extraction and content creation capabilities as competitive advantages that justify investment in systematic AI collaboration approaches.
+Understanding the strategic business context for AI adoption helps frame the Interview Method as part of broader organizational transformation. **[The AI Coding Revolution: Your Team's Survival Guide](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)** (15-minute read) provides essential context for positioning knowledge extraction and content creation capabilities as competitive advantages that justify investment in systematic AI collaboration approaches.
+
+## Why the Interview Method Works
+
+The Interview Method leverages a fundamental psychological insight: humans organize knowledge through conversation. By having the AI conduct a structured interview, you activate natural communication patterns that help surface connections, identify gaps, and structure information in ways that feel intuitive and comprehensive.
+
+The Interview Method specializes **[Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** principles for knowledge extraction and content creation, where AI develops comprehensive understanding before implementation.
 
 ### Quality That Exceeds Expectations
 One of the most striking aspects of this method is how consistently it produces output that's better than what you could create on your own. The AI doesn't just organize your thoughts—it often expands on them, creates better structure, and includes considerations you might have missed.
@@ -44,7 +50,7 @@ Perhaps the most valuable aspect is how the AI asks questions that spark thought
 
 ## Foundation in Planning-First Methodology
 
-The Interview Method specializes **[Planning-First Methodology](planning-first-ai-methodology-foundation.md)** principles for knowledge extraction and content creation, where AI develops comprehensive understanding before implementation.
+The Interview Method specializes **[Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** principles for knowledge extraction and content creation, where AI develops comprehensive understanding before implementation.
 
 **For Software Developers**: The Interview Method excels at generating comprehensive implementation plans without requiring manual organization or structure. You provide technical knowledge through conversation; AI produces detailed, well-structured planning documents.
 
@@ -87,7 +93,7 @@ This approach works best when:
 - The topic is complex or multifaceted
 - You want a more thorough, detailed interview process
 
-*For managing complex, multi-faceted projects where the Interview Method generates substantial documentation bundles, see [Multi-Phase Planning](multi-phase-planning-documentation-bundles.md).*
+*For managing complex, multi-faceted projects where the Interview Method generates substantial documentation bundles, see [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles).*
 
 ## A Real-World Example: From Scattered Thoughts to Documentation Bundle
 
@@ -207,24 +213,24 @@ The next time you find yourself with a head full of ideas but no clear path to o
 ## 🔗 Related Posts in This Series
 
 ### **Next Steps**
-- **➡️ [Multi-Phase Planning](multi-phase-planning-documentation-bundles.md)**: Scale documentation to enterprise-level project coordination
-- **🔍 [Code Quality Diagnostics](ai-code-quality-detective-technical-debt.md)**: Use AI performance to identify technical debt
+- **➡️ [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)**: Scale documentation to enterprise-level project coordination
+- **🔍 [Code Quality Diagnostics](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)**: Use AI performance to identify technical debt
 
 ### **Foundational Methods**
-- **📋 [Planning-First Methodology](planning-first-ai-methodology-foundation.md)**: Core framework that underlies the Interview Method
-- **📊 [Measuring AI Impact](measuring-ai-impact-beyond-gut-feeling.md)**: Track effectiveness of knowledge extraction approaches
+- **📋 [Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)**: Core framework that underlies the Interview Method
+- **📊 [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)**: Track effectiveness of knowledge extraction approaches
 
 ### **Implementation Support**
-- **🤝 [Overcoming AI Resistance](overcoming-ai-resistance-smart-developers.md)**: Help teams adopt conversational AI methods
-- **🏗️ [Taming the Monolith](taming-monolith-ai-legacy-strategies.md)**: Apply Interview Method for legacy system documentation
+- **🤝 [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)**: Help teams adopt conversational AI methods
+- **🏗️ [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)**: Apply Interview Method for legacy system documentation
 
 ### **Strategic Context**
-- **🚀 [AI Coding Revolution](ai-coding-revolution-team-survival-guide.md)**: Business case for AI-powered knowledge extraction
+- **🚀 [AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)**: Business case for AI-powered knowledge extraction
 
 ---
 
-📚 **[⬅️ Back to AI Coding Mastery Series](ai-coding-mastery-series.md)**  
-⬅️ **Previous**: [Measuring AI Impact](measuring-ai-impact-beyond-gut-feeling.md) | ➡️ **Next**: [Multi-Phase Planning Documentation Bundles](multi-phase-planning-documentation-bundles.md)
+📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
+⬅️ **Previous**: [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) | ➡️ **Next**: [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)
 
 ---
 

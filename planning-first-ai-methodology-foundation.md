@@ -3,8 +3,8 @@
 *Why starting with understanding, not code, is the key to unlocking AI's full potential in software development*
 
 ---
-📚 **[AI Coding Mastery Series](ai-coding-mastery-series.md)** | **Post 2 of 8**  
-⬅️ **Previous**: [The AI Coding Revolution](ai-coding-revolution-team-survival-guide.md) | ➡️ **Next**: [Taming the Monolith](taming-monolith-ai-legacy-strategies.md)
+📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 2 of 8**  
+⬅️ **Previous**: [The AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide) | ➡️ **Next**: [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)
 
 **🎯 Best For**: Technical practitioners, implementation teams  
 **⏱️ Reading Time**: 11 minutes | **🎚️ Difficulty**: Beginner-Intermediate
@@ -101,10 +101,10 @@ For large tasks, the percentage of time spent planning versus overall manual imp
 For complex projects that exceed the scope of standard planning, specialized enhancements to Planning-First Methodology provide additional power:
 
 ### Multi-Phase Planning for Enterprise Projects
-When working with particularly large or complex projects, **Multi-Phase Planning** breaks the planning process into high-level architectural planning followed by detailed implementation planning. This approach is especially valuable for enterprise-scale projects requiring coordination across multiple teams and systems. For comprehensive guidance on scaling planning methodology to enterprise complexity, see **[Multi-Phase Planning: Managing Complex AI Projects with Documentation Bundles](multi-phase-planning-documentation-bundles.md)** (16-minute read, advanced coordination techniques, essential for complex system architecture).
+When working with particularly large or complex projects, **Multi-Phase Planning** breaks the planning process into high-level architectural planning followed by detailed implementation planning. This approach is especially valuable for enterprise-scale projects requiring coordination across multiple teams and systems. For comprehensive guidance on scaling planning methodology to enterprise complexity, see **[Multi-Phase Planning: Managing Complex AI Projects with Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)** (16-minute read, advanced coordination techniques, essential for complex system architecture).
 
 ### Interview Method for Knowledge Extraction  
-The **Interview Method** provides a specialized approach where the AI conducts a structured interview to extract scattered knowledge and organize it into comprehensive documentation. This technique excels when requirements are unclear or when extensive domain knowledge needs to be captured and structured. For detailed implementation guidance, see **[The AI Interview Method: Transform Scattered Thoughts into Professional Content](ai-interview-method-scattered-thoughts.md)** (19-minute read, knowledge extraction workflows, ideal for complex requirement gathering).
+The **Interview Method** provides a specialized approach where the AI conducts a structured interview to extract scattered knowledge and organize it into comprehensive documentation. This technique excels when requirements are unclear or when extensive domain knowledge needs to be captured and structured. For detailed implementation guidance, see **[The AI Interview Method: Transform Scattered Thoughts into Professional Content](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)** (19-minute read, knowledge extraction workflows, ideal for complex requirement gathering).
 
 Both techniques build on the Planning-First foundation while addressing specific challenges that arise in complex development scenarios.
 
@@ -180,7 +180,7 @@ This methodology works excellently for pair or mob programming sessions, offerin
 - **Shared quality assurance**: Group review ensures higher quality plans
 - **Knowledge transfer**: Planning documents serve as shared understanding
 
-*For comprehensive strategies on introducing Planning-First Methodology to resistant team members and building organization-wide adoption, see [Overcoming AI Resistance](overcoming-ai-resistance-smart-developers.md).*
+*For comprehensive strategies on introducing Planning-First Methodology to resistant team members and building organization-wide adoption, see [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers).*
 
 When reviewing plans in group settings:
 - **Read sections individually**: Don't rush through the document
@@ -228,7 +228,7 @@ Planning-First Methodology transforms the relationship between developers and AI
 
 The methodology scales from simple 15-minute planning sessions for straightforward tasks to enterprise-level projects using specialized enhancements like Multi-Phase Planning and the Interview Method. As you develop proficiency with planning techniques, you'll find that the time investment decreases while the quality of AI collaboration increases dramatically.
 
-Planning-First Methodology serves as a cornerstone for organizational AI transformation, providing the systematic foundation that enables teams to move beyond ad-hoc AI usage toward competitive advantage. For comprehensive understanding of how planning methodology fits within broader AI adoption strategies and delivers measurable business value, see **[The AI Coding Revolution: Your Team's Survival Guide](ai-coding-revolution-team-survival-guide.md)** (18-minute read, strategic adoption frameworks, essential for understanding methodology's role in organizational transformation).
+Planning-First Methodology serves as a cornerstone for organizational AI transformation, providing the systematic foundation that enables teams to move beyond ad-hoc AI usage toward competitive advantage. For comprehensive understanding of how planning methodology fits within broader AI adoption strategies and delivers measurable business value, see **[The AI Coding Revolution: Your Team's Survival Guide](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)** (18-minute read, strategic adoption frameworks, essential for understanding methodology's role in organizational transformation).
 
 The next time you're tempted to ask AI to "just generate the code," remember that a few minutes of planning can save hours of debugging and rework. Your future self—and your codebase—will thank you.
 
@@ -237,21 +237,21 @@ The next time you're tempted to ask AI to "just generate the code," remember tha
 ## 🔗 Related Posts in This Series
 
 ### **Next Steps**
-- **➡️ [Taming the Monolith](taming-monolith-ai-legacy-strategies.md)**: Apply planning techniques to complex legacy systems
-- **🎯 [Interview Method](ai-interview-method-scattered-thoughts.md)**: Advanced knowledge extraction and documentation planning
+- **➡️ [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)**: Apply planning techniques to complex legacy systems
+- **🎯 [Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)**: Advanced knowledge extraction and documentation planning
 
 ### **Specialized Planning Approaches**
-- **📋 [Multi-Phase Planning](multi-phase-planning-documentation-bundles.md)**: Enterprise-scale project coordination
-- **🔍 [Code Quality Diagnostics](ai-code-quality-detective-technical-debt.md)**: Planning refactoring and quality improvements
+- **📋 [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)**: Enterprise-scale project coordination
+- **🔍 [Code Quality Diagnostics](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)**: Planning refactoring and quality improvements
 
 ### **Implementation Support**
-- **📊 [Measuring AI Impact](measuring-ai-impact-beyond-gut-feeling.md)**: Track planning methodology effectiveness
-- **🤝 [Overcoming AI Resistance](overcoming-ai-resistance-smart-developers.md)**: Help teams adopt planning approaches
+- **📊 [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)**: Track planning methodology effectiveness
+- **🤝 [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)**: Help teams adopt planning approaches
 
 ---
 
-📚 **[⬅️ Back to AI Coding Mastery Series](ai-coding-mastery-series.md)**  
-⬅️ **Previous**: [The AI Coding Revolution](ai-coding-revolution-team-survival-guide.md) | ➡️ **Next**: [Taming the Monolith](taming-monolith-ai-legacy-strategies.md)
+📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
+⬅️ **Previous**: [The AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide) | ➡️ **Next**: [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)
 
 ---
 

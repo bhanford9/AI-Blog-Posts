@@ -3,8 +3,8 @@
 *How AI performance degradation reveals hidden code quality issues and creates opportunities for strategic refactoring*
 
 ---
-📚 **[AI Coding Mastery Series](ai-coding-mastery-series.md)** | **Post 7 of 8**  
-⬅️ **Previous**: [Multi-Phase Planning Documentation Bundles](multi-phase-planning-documentation-bundles.md) | ➡️ **Next**: [Overcoming AI Resistance in Teams](overcoming-ai-resistance-smart-developers.md)
+📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 7 of 8**  
+⬅️ **Previous**: [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) | ➡️ **Next**: [Overcoming AI Resistance in Teams](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)
 
 **🎯 Best For**: Technical leads, architecture teams, quality-focused developers  
 **⏱️ Reading Time**: 11 minutes | **🎚️ Difficulty**: Intermediate-Advanced
@@ -164,7 +164,7 @@ The decision between approaches depends on the pain level of continuing with exi
 - Ensure plan addresses specific principle violations identified in diagnosis
 - Set clear scope boundaries to prevent scope creep
 
-**Systematic planning is critical** for refactoring work where scope can easily expand. **[Planning-First AI Methodology](planning-first-ai-methodology-foundation.md)** (19-minute read) provides frameworks for focused, manageable AI refactoring efforts.
+**Systematic planning is critical** for refactoring work where scope can easily expand. **[Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** (19-minute read) provides frameworks for focused, manageable AI refactoring efforts.
 
 **Implementation Phase**:
 - Use fresh AI context dedicated to refactoring work
@@ -195,7 +195,7 @@ The decision between approaches depends on the pain level of continuing with exi
 
 **Success Measurement**: Start with qualitative indicators rather than quantitative metrics. Success means AI works more smoothly in the area without excessive prompting effort.
 
-For comprehensive frameworks to systematically track and validate the ROI of AI-driven refactoring efforts, **[Measuring AI Impact in Development Teams](measuring-ai-impact-beyond-gut-feeling.md)** (8-minute read) provides specific methodologies for documenting quality improvements, measuring developer experience enhancements, and building business cases that justify continued investment in AI-guided technical debt reduction initiatives.
+For comprehensive frameworks to systematically track and validate the ROI of AI-driven refactoring efforts, **[Measuring AI Impact in Development Teams](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)** (8-minute read) provides specific methodologies for documenting quality improvements, measuring developer experience enhancements, and building business cases that justify continued investment in AI-guided technical debt reduction initiatives.
 
 ### Team Communication and Documentation
 
@@ -265,7 +265,7 @@ Create systematic records of:
 - Create decision frameworks for refactoring timing and scope
 - Develop metrics for measuring long-term improvement impact
 
-*For comprehensive team adoption strategies and overcoming resistance to AI quality assessment practices, see [Overcoming AI Resistance](overcoming-ai-resistance-smart-developers.md).*
+*For comprehensive team adoption strategies and overcoming resistance to AI quality assessment practices, see [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers).*
 
 ## Conclusion: AI as Quality Partnership
 
@@ -284,14 +284,14 @@ Your future self, your teammates, and your AI collaborators will all benefit fro
 ## Related Posts and Navigation
 
 **Related Deep Dives**:
-- 🔍 [Planning-First AI Methodology](planning-first-ai-methodology-foundation.md) - Foundation for systematic AI collaboration
-- 📊 [Measuring AI Impact Beyond Gut Feeling](measuring-ai-impact-beyond-gut-feeling.md) - Metrics and measurement frameworks for AI development
-- 💬 [AI Interview Method for Scattered Requirements](ai-interview-method-scattered-thoughts.md) - Collaborative requirement gathering techniques
+- 🔍 [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) - Foundation for systematic AI collaboration
+- 📊 [Measuring AI Impact Beyond Gut Feeling](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) - Metrics and measurement frameworks for AI development
+- 💬 [AI Interview Method for Scattered Requirements](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) - Collaborative requirement gathering techniques
 
 ---
 
-📚 **[⬅️ Back to AI Coding Mastery Series](ai-coding-mastery-series.md)**  
-⬅️ **Previous**: [Multi-Phase Planning Documentation Bundles](multi-phase-planning-documentation-bundles.md) | ➡️ **Next**: [Overcoming AI Resistance in Teams](overcoming-ai-resistance-smart-developers.md)
+📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
+⬅️ **Previous**: [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) | ➡️ **Next**: [Overcoming AI Resistance in Teams](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)
 
 ---
 

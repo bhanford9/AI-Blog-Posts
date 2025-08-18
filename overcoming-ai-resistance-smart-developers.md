@@ -3,8 +3,8 @@
 *Understanding the psychology of AI adoption resistance and building successful change management strategies for development teams*
 
 ---
-📚 **[AI Coding Mastery Series](ai-coding-mastery-series.md)** | **Post 8 of 8**  
-⬅️ **Previous**: [AI as Your Code Quality Detective](ai-code-quality-detective-technical-debt.md) | ➡️ **Next**: [AI Coding Mastery Series Overview](ai-coding-mastery-series.md)
+📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 8 of 8**  
+⬅️ **Previous**: [AI as Your Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt) | ➡️ **Next**: [AI Coding Mastery Series Overview](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)
 
 **🎯 Best For**: Team leads, managers, change agents  
 **⏱️ Reading Time**: 12 minutes | **🎚️ Difficulty**: Intermediate
@@ -91,13 +91,13 @@ The correct framing positions AI as a tool that propels capable developers to ne
 
 *Underlying Issue*: Expecting AI to work perfectly without learning proper context management and collaboration techniques.
 
-*Available Solution*: **[Taming the Monolith: AI Coding in Complex Legacy Codebases](taming-monolith-ai-legacy-strategies.md)** (20-minute read) provides comprehensive strategies for overcoming context limitations and complexity challenges in established systems.
+*Available Solution*: **[Taming the Monolith: AI Coding in Complex Legacy Codebases](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)** (20-minute read) provides comprehensive strategies for overcoming context limitations and complexity challenges in established systems.
 
 **"It only understands coding things and can't apply the domain concepts in the way I need it to."**
 
 *Underlying Issue*: Expecting AI to automatically understand business domain without explicit guidance.
 
-*Available Solution*: **[The Interview Method](ai-interview-method-scattered-thoughts.md)** (10-minute read) provides systematic techniques for extracting and structuring domain knowledge that AI can effectively understand and apply.
+*Available Solution*: **[The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)** (10-minute read) provides systematic techniques for extracting and structuring domain knowledge that AI can effectively understand and apply.
 
 ### Unprofessional Resistance Statements
 
@@ -150,7 +150,7 @@ Without this leadership foundation, teams will inevitably default to familiar ma
 - **Knowledge Sharing**: Discoveries and techniques spread immediately across the team
 - **Reduced Individual Pressure**: No single person bears the burden of AI proficiency development
 
-**Simple Task Selection**: Begin with relatively straightforward tasks that provide AI collaboration learning opportunities without overwhelming complexity. **[Planning-First AI Methodology](planning-first-ai-methodology-foundation.md)** (19-minute read) provides frameworks for structuring these initial learning tasks systematically.
+**Simple Task Selection**: Begin with relatively straightforward tasks that provide AI collaboration learning opportunities without overwhelming complexity. **[Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** (19-minute read) provides frameworks for structuring these initial learning tasks systematically.
 
 **Collective Problem-Solving**: Encourage teams to work through AI limitations together, developing shared strategies for common challenges.
 
@@ -181,7 +181,7 @@ Without this leadership foundation, teams will inevitably default to familiar ma
 
 **Analysis and Feedback**: Use collected data to identify patterns showing how AI collaboration affects different types of work and complexity levels.
 
-For comprehensive frameworks to systematically track adoption progress and demonstrate ROI that justifies continued organizational investment, **[Measuring AI Impact in Development Teams](measuring-ai-impact-beyond-gut-feeling.md)** (8-minute read) provides specific methodologies for documenting productivity improvements, measuring learning curve progression, and building compelling business cases that support teams through the challenging adoption phases.
+For comprehensive frameworks to systematically track adoption progress and demonstrate ROI that justifies continued organizational investment, **[Measuring AI Impact in Development Teams](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)** (8-minute read) provides specific methodologies for documenting productivity improvements, measuring learning curve progression, and building compelling business cases that support teams through the challenging adoption phases.
 
 ### Phase 4: Optimization and Scaling
 
@@ -217,7 +217,7 @@ For comprehensive frameworks to systematically track adoption progress and demon
 
 **Long-Term Benefits**: Reduced task completion time, improved code quality and documentation, enhanced team capability for complex projects, and greater development flexibility.
 
-For comprehensive frameworks to systematically track adoption progress and demonstrate ROI that justifies continued organizational investment, **[Measuring AI Impact in Development Teams](measuring-ai-impact-beyond-gut-feeling.md)** (8-minute read) provides specific methodologies for documenting productivity improvements, measuring learning curve progression, and building compelling business cases that support teams through the challenging adoption phases.
+For comprehensive frameworks to systematically track adoption progress and demonstrate ROI that justifies continued organizational investment, **[Measuring AI Impact in Development Teams](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)** (8-minute read) provides specific methodologies for documenting productivity improvements, measuring learning curve progression, and building compelling business cases that support teams through the challenging adoption phases.
 
 ## Long-Term Organizational Benefits
 
@@ -251,20 +251,20 @@ Overcoming AI resistance is an ongoing process of cultural development and skill
 
 ---
 
-📚 **[⬅️ Back to AI Coding Mastery Series](ai-coding-mastery-series.md)**  
-⬅️ **Previous**: [AI as Your Code Quality Detective](ai-code-quality-detective-technical-debt.md) | ➡️ **Next**: [AI Coding Mastery Series Overview](ai-coding-mastery-series.md)
+📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
+⬅️ **Previous**: [AI as Your Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt) | ➡️ **Next**: [AI Coding Mastery Series Overview](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)
 
 ---
 
 ## Related Posts and Navigation
 
-**📚 [AI Coding Mastery Series](ai-coding-mastery-series.md)** - Complete series overview and reading guide
+**📚 [AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** - Complete series overview and reading guide
 
 **Related Deep Dives**:
-- 🔍 [Planning-First AI Methodology](planning-first-ai-methodology-foundation.md) - Foundation for systematic AI collaboration
-- 📊 [Measuring AI Impact Beyond Gut Feeling](measuring-ai-impact-beyond-gut-feeling.md) - Metrics and measurement frameworks for AI development
-- 💬 [AI Interview Method for Scattered Requirements](ai-interview-method-scattered-thoughts.md) - Collaborative requirement gathering techniques
-- 📋 [Multi-Phase Planning Documentation Bundles](multi-phase-planning-documentation-bundles.md) - Managing complex AI projects
+- 🔍 [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) - Foundation for systematic AI collaboration
+- 📊 [Measuring AI Impact Beyond Gut Feeling](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) - Metrics and measurement frameworks for AI development
+- 💬 [AI Interview Method for Scattered Requirements](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) - Collaborative requirement gathering techniques
+- 📋 [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) - Managing complex AI projects
 
 ---
 

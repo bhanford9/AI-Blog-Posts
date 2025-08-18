@@ -4,8 +4,8 @@
 *An exploration of the challenges and approaches to quantifying whether AI coding assistants really make us faster*
 
 ---
-📚 **[AI Coding Mastery Series](ai-coding-mastery-series.md)** | **Post 4 of 8**  
-⬅️ **Previous**: [Taming the Monolith](taming-monolith-ai-legacy-strategies.md) | ➡️ **Next**: [The Interview Method](ai-interview-method-scattered-thoughts.md)
+📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 4 of 8**  
+⬅️ **Previous**: [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies) | ➡️ **Next**: [The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)
 
 **🎯 Best For**: Team leads, managers, data-driven practitioners  
 **⏱️ Reading Time**: 13 minutes | **🎚️ Difficulty**: Beginner-Intermediate
@@ -18,7 +18,7 @@ It's easy for a developer to say that AI is causing their speed to increase, but
 
 This challenge faces development teams everywhere as AI coding assistants become mainstream. While individual developers report dramatic productivity gains, translating these experiences into measurable, trustworthy metrics remains elusive. The question isn't whether AI tools *can* increase velocity—it's whether they *actually are* in your specific context, and how you can prove it.
 
-*For understanding the broader business case and adoption timeline for AI coding tools, see [The AI Coding Revolution](ai-coding-revolution-team-survival-guide.md).*
+*For understanding the broader business case and adoption timeline for AI coding tools, see [The AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide).*
 
 ## The Mathematics of AI-Assisted Development
 
@@ -133,7 +133,11 @@ For skeptics demanding proof, controlled experiments can provide concrete data:
 
 **Important**: Avoid unfair comparisons like greenfield application development, where AI advantages are already well-documented. Equally important: ensure the developer using AI tools is proficient with AI collaboration—having an inexperienced AI user will produce misleadingly poor results that don't reflect the tool's actual capabilities.
 
-*For measuring AI effectiveness in complex legacy systems, see [Taming the Monolith](taming-monolith-ai-legacy-strategies.md).*
+*For measuring AI effectiveness in complex legacy systems, see [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies).*
+
+**Team Learning Effectiveness** tracks how quickly team members become proficient with AI tools, including ramp-up time, plateau identification, and peer learning patterns. This measurement helps optimize training approaches and identify team members who can serve as internal AI mentors.
+
+*For detailed strategies on skill development and team learning approaches, see [The AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide).*
 
 ### Timeline for Meaningful Data
 
@@ -157,7 +161,7 @@ While sprint velocity is the obvious metric, AI adoption success should include:
 
 AI tools amplify existing capabilities rather than replacing them. The learning investment required for effective AI collaboration varies by developer experience, but consistent patterns emerge across skill levels.
 
-*For detailed strategies on skill development and team learning approaches, see [The AI Coding Revolution](ai-coding-revolution-team-survival-guide.md).*
+*For detailed strategies on skill development and team learning approaches, see [The AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide).*
 
 ### Managing Expectations
 
@@ -190,7 +194,7 @@ The agent is doing the work, so let the agent make stylistic decisions. Focus fe
 - [ ] Quality metrics: bug rates, review cycle times
 - [ ] Developer satisfaction with AI collaboration tools
 
-*For strategies on increasing team AI adoption rates and measuring cultural change, see [Overcoming AI Resistance](overcoming-ai-resistance-smart-developers.md).*
+*For strategies on increasing team AI adoption rates and measuring cultural change, see [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers).*
 
 ### Implementation Templates
 
@@ -285,7 +289,7 @@ This approach transforms subjective impressions into data-driven insights that c
 
 **Measure What Matters**: Track metrics that align with business goals rather than theoretical productivity measures.
 
-*For foundational approaches that maximize measurement effectiveness, see [Planning-First AI Methodology](planning-first-ai-methodology-foundation.md).*
+*For foundational approaches that maximize measurement effectiveness, see [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation).*
 
 ## Moving Forward: Embrace the Exploration
 
@@ -300,24 +304,24 @@ The future of software development is being written right now, one AI-assisted c
 ## 🔗 Related Posts in This Series
 
 ### **Next Steps**
-- **➡️ [The Interview Method](ai-interview-method-scattered-thoughts.md)**: Advanced knowledge extraction and structured documentation
-- **🔍 [Code Quality Diagnostics](ai-code-quality-detective-technical-debt.md)**: Use AI performance to identify technical debt
+- **➡️ [The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)**: Advanced knowledge extraction and structured documentation
+- **🔍 [Code Quality Diagnostics](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)**: Use AI performance to identify technical debt
 
 ### **Implementation Support**
-- **📋 [Planning-First Methodology](planning-first-ai-methodology-foundation.md)**: Foundational framework for reliable AI collaboration
-- **🤝 [Overcoming AI Resistance](overcoming-ai-resistance-smart-developers.md)**: Change management strategies for team adoption
+- **📋 [Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)**: Foundational framework for reliable AI collaboration
+- **🤝 [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)**: Change management strategies for team adoption
 
 ### **Context and Strategy**
-- **🚀 [AI Coding Revolution](ai-coding-revolution-team-survival-guide.md)**: Strategic business case and competitive context
-- **🏗️ [Taming the Monolith](taming-monolith-ai-legacy-strategies.md)**: Measuring AI effectiveness in complex legacy systems
+- **🚀 [AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)**: Strategic business case and competitive context
+- **🏗️ [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)**: Measuring AI effectiveness in complex legacy systems
 
 ### **Advanced Techniques**
-- **📊 [Multi-Phase Planning](multi-phase-planning-documentation-bundles.md)**: Enterprise-scale project coordination and measurement
+- **📊 [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)**: Enterprise-scale project coordination and measurement
 
 ---
 
-📚 **[⬅️ Back to AI Coding Mastery Series](ai-coding-mastery-series.md)**  
-⬅️ **Previous**: [Taming the Monolith](taming-monolith-ai-legacy-strategies.md) | ➡️ **Next**: [The Interview Method](ai-interview-method-scattered-thoughts.md)
+📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
+⬅️ **Previous**: [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies) | ➡️ **Next**: [The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)
 
 ---
 

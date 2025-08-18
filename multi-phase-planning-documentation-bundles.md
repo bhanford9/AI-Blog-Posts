@@ -3,15 +3,15 @@
 *When simple planning isn't enough: A systematic approach to tackling enterprise-scale integration projects using AI collaboration*
 
 ---
-📚 **[AI Coding Mastery Series](ai-coding-mastery-series.md)** | **Post 6 of 8**  
-⬅️ **Previous**: [The Interview Method](ai-interview-method-scattered-thoughts.md) | ➡️ **Next**: [AI as Your Code Quality Detective](ai-code-quality-detective-technical-debt.md)
+📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 6 of 8**  
+⬅️ **Previous**: [The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) | ➡️ **Next**: [AI as Your Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)
 
 **🎯 Best For**: Technical leads, enterprise architects, complex project managers  
 **⏱️ Reading Time**: 11 minutes | **🎚️ Difficulty**: Advanced
 
 ---
 
-Standard **[Planning-First Methodology](planning-first-ai-methodology-foundation.md)** works excellently for most development tasks, but some projects are simply too large and complex for a single planning session. When you're dealing with multiple services, complex dependencies, varying data structures, and extensive domain knowledge, you need a more sophisticated approach: Multi-Phase Planning.
+Standard **[Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** works excellently for most development tasks, but some projects are simply too large and complex for a single planning session. When you're dealing with multiple services, complex dependencies, varying data structures, and extensive domain knowledge, you need a more sophisticated approach: Multi-Phase Planning.
 
 Multi-Phase Planning extends the Planning-First foundation by breaking complex projects into manageable documentation phases, creating what AI agents often call "Documentation Bundles"—comprehensive collections of related plans that work together to solve enterprise-scale challenges.
 
@@ -51,7 +51,7 @@ Each documentation bundle should include the elements most relevant to the task 
 
 **Key Strategy**: Use fresh AI context for each documentation bundle. This prevents context pollution and ensures focused attention on each component. Tell the AI to ask clarifying questions for anything it's not confident about—each bundle should take 15 minutes or less and doesn't need to be fully comprehensive.
 
-For systematic knowledge extraction from team members who understand complex legacy systems, consider integrating **[The Interview Method](ai-interview-method-scattered-thoughts.md)** (10-minute read) during documentation bundle creation. This structured approach helps capture critical domain knowledge, business logic, and architectural decisions that might not be obvious from code examination alone, ensuring your documentation bundles include both technical and contextual understanding.
+For systematic knowledge extraction from team members who understand complex legacy systems, consider integrating **[The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)** (10-minute read) during documentation bundle creation. This structured approach helps capture critical domain knowledge, business logic, and architectural decisions that might not be obvious from code examination alone, ensuring your documentation bundles include both technical and contextual understanding.
 
 ### Phase 2: High-Level Architecture Planning
 With documentation bundles complete, create a new AI context for architectural planning. Provide:
@@ -225,7 +225,7 @@ Multi-Phase Planning isn't limited to the four-document approach. Complex projec
 
 ### Relationship to Planning-First Methodology
 
-Multi-Phase Planning extends **[Planning-First](planning-first-ai-methodology-foundation.md)** principles for projects that exceed single-context planning capabilities. The core benefits remain: quality context building, resource optimization, and reduced debugging cycles.
+Multi-Phase Planning extends **[Planning-First](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** principles for projects that exceed single-context planning capabilities. The core benefits remain: quality context building, resource optimization, and reduced debugging cycles.
 
 ### Connection to Advanced AI Strategies
 
@@ -272,24 +272,24 @@ Whether you're integrating multiple business systems, modernizing complex legacy
 ## 🔗 Related Posts in This Series
 
 ### **Next Steps**
-- **➡️ [Code Quality Diagnostics](ai-code-quality-detective-technical-debt.md)**: Use AI performance to identify technical debt in complex systems
-- **🤝 [Overcoming AI Resistance](overcoming-ai-resistance-smart-developers.md)**: Lead enterprise-scale AI adoption and change management
+- **➡️ [Code Quality Diagnostics](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)**: Use AI performance to identify technical debt in complex systems
+- **🤝 [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)**: Lead enterprise-scale AI adoption and change management
 
 ### **Foundational Methods**
-- **📋 [Planning-First Methodology](planning-first-ai-methodology-foundation.md)**: Core framework that Multi-Phase Planning extends
-- **🎯 [Interview Method](ai-interview-method-scattered-thoughts.md)**: Knowledge extraction for documentation bundle creation
+- **📋 [Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)**: Core framework that Multi-Phase Planning extends
+- **🎯 [Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)**: Knowledge extraction for documentation bundle creation
 
 ### **Implementation and Measurement**
-- **📊 [Measuring AI Impact](measuring-ai-impact-beyond-gut-feeling.md)**: Track effectiveness across complex multi-phase projects
-- **🏗️ [Taming the Monolith](taming-monolith-ai-legacy-strategies.md)**: Apply Multi-Phase Planning to legacy system challenges
+- **📊 [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)**: Track effectiveness across complex multi-phase projects
+- **🏗️ [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)**: Apply Multi-Phase Planning to legacy system challenges
 
 ### **Strategic Context**
-- **🚀 [AI Coding Revolution](ai-coding-revolution-team-survival-guide.md)**: Business case for enterprise-scale AI transformation
+- **🚀 [AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)**: Business case for enterprise-scale AI transformation
 
 ---
 
-📚 **[⬅️ Back to AI Coding Mastery Series](ai-coding-mastery-series.md)**  
-⬅️ **Previous**: [The Interview Method](ai-interview-method-scattered-thoughts.md) | ➡️ **Next**: [AI as Your Code Quality Detective](ai-code-quality-detective-technical-debt.md)
+📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
+⬅️ **Previous**: [The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) | ➡️ **Next**: [AI as Your Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)
 
 ---
 

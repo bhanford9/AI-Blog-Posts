@@ -3,8 +3,8 @@
 *Strategies for overcoming context limitations and maximizing AI effectiveness in established projects*
 
 ---
-📚 **[AI Coding Mastery Series](ai-coding-mastery-series.md)** | **Post 3 of 8**  
-⬅️ **Previous**: [Planning-First AI Methodology](planning-first-ai-methodology-foundation.md) | ➡️ **Next**: [Measuring AI Impact](measuring-ai-impact-beyond-gut-feeling.md)
+📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 3 of 8**  
+⬅️ **Previous**: [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) | ➡️ **Next**: [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)
 
 **🎯 Best For**: Developers working with legacy systems, technical leads  
 **⏱️ Reading Time**: 11 minutes | **🎚️ Difficulty**: Intermediate
@@ -64,7 +64,7 @@ These symptoms indicate that your AI's context has become too muddy to be effect
 
 If AI consistently underperforms in specific areas of your codebase, this often indicates deeper technical debt or structural problems. Rather than fighting through these challenges, consider them diagnostic feedback about code that could benefit from refactoring.
 
-AI performance patterns serve as an excellent early warning system for code that needs attention. When you find areas where AI consistently produces poor results, struggles to understand requirements, or generates buggy code, these are often the same areas that cause problems for human developers. **[AI as Your Code Quality Detective](ai-code-quality-detective-technical-debt.md)** (12-minute read) provides a systematic approach to interpreting these signals and using AI performance as a diagnostic tool for identifying refactoring opportunities and technical debt hotspots.
+AI performance patterns serve as an excellent early warning system for code that needs attention. When you find areas where AI consistently produces poor results, struggles to understand requirements, or generates buggy code, these are often the same areas that cause problems for human developers. **[AI as Your Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)** (12-minute read) provides a systematic approach to interpreting these signals and using AI performance as a diagnostic tool for identifying refactoring opportunities and technical debt hotspots.
 
 ## Strategic Solutions for Monolithic Environments
 
@@ -82,13 +82,13 @@ The fundamental building block for working with AI in established codebases is c
 
 **The Implementation Plan Approach**: For large tasks, always start by having the AI create a markdown file with a detailed implementation plan. Review this plan carefully—if it's way off course or seems impossible, you know the task won't fit in the context bucket.
 
-**Strategic planning is critical** in monolithic environments where context limitations require careful task breakdown. **[Planning-First AI Methodology](planning-first-ai-methodology-foundation.md)** (19-minute read) provides systematic approaches for managing complex tasks within AI context constraints.
+**Strategic planning is critical** in monolithic environments where context limitations require careful task breakdown. **[Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** (19-minute read) provides systematic approaches for managing complex tasks within AI context constraints.
 
 **Two-Stage Problem Breakdown**: When tasks are too large:
 1. **Manual breakdown**: Break the problem into smaller chunks yourself based on your understanding of the codebase
 2. **AI-assisted breakdown**: Start with fresh context, explain the problem at a high level, and ask the AI to create high-level checkpoints
 
-**Enterprise coordination**: **[Multi-Phase Planning Documentation Bundle](multi-phase-planning-documentation-bundles.md)** (17-minute read) handles complex project coordination across multiple teams and systems.
+**Enterprise coordination**: **[Multi-Phase Planning Documentation Bundle](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)** (17-minute read) handles complex project coordination across multiple teams and systems.
 
 **Context Cleanliness**: Stay vigilant about "muddying your context." Think of your AI's context like a bucket of water—the clearer the water, the more effective the AI. When you feel like you're crossing into territory that could be its own task, start fresh context.
 
@@ -125,7 +125,7 @@ Instead of pushing through without the tool, have the AI write the script for yo
 AI excels at adding remedial code that makes future work easier:
 
 - **Enhanced Logging**: AI can add comprehensive logging throughout your codebase, which it can then consume and analyze in subsequent tasks
-- **Documentation Generation**: Creating or updating documentation for complex code sections. For systematic knowledge capture from team members who understand legacy systems, **[The Interview Method](ai-interview-method-scattered-thoughts.md)** (10-minute read) provides a structured approach to extracting and documenting complex domain knowledge that can then be integrated into your codebase documentation.
+- **Documentation Generation**: Creating or updating documentation for complex code sections. For systematic knowledge capture from team members who understand legacy systems, **[The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)** (10-minute read) provides a structured approach to extracting and documenting complex domain knowledge that can then be integrated into your codebase documentation.
 - **Test Coverage**: Adding unit tests for existing functionality
 - **Code Comments**: Improving code readability with meaningful comments
 
@@ -144,7 +144,7 @@ Some of the most valuable AI assistance comes from thinking outside traditional 
 
 Don't expect AI to tackle your monolithic codebase the same way it handles greenfield projects. Success comes from finding the right-sized problems and working within AI's natural strengths.
 
-Understanding the broader organizational context for AI adoption helps set appropriate expectations and timelines for monolithic integration. **[The AI Coding Revolution: Your Team's Survival Guide](ai-coding-revolution-team-survival-guide.md)** (15-minute read) provides essential strategic framework for managing the transformation process, addressing stakeholder concerns, and building the business case for investing in the infrastructure and training needed for effective AI implementation in complex legacy environments.
+Understanding the broader organizational context for AI adoption helps set appropriate expectations and timelines for monolithic integration. **[The AI Coding Revolution: Your Team's Survival Guide](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)** (15-minute read) provides essential strategic framework for managing the transformation process, addressing stakeholder concerns, and building the business case for investing in the infrastructure and training needed for effective AI implementation in complex legacy environments.
 
 ### Experiment with Repetition
 
@@ -174,7 +174,7 @@ Constantly look for opportunities to use AI assistance. The more you use these t
 - [ ] Use AI diagnostics to identify refactoring opportunities
 - [ ] Leverage AI for systematic code quality improvements
 
-Once you've implemented these monolithic strategies, measuring their effectiveness becomes crucial for demonstrating ROI and optimizing your approach. **[Measuring AI Impact in Development Teams](measuring-ai-impact-beyond-gut-feeling.md)** (8-minute read) provides concrete metrics and tracking methodologies specifically designed for complex environments where traditional productivity measurements may not capture the full value of AI assistance in legacy codebases.
+Once you've implemented these monolithic strategies, measuring their effectiveness becomes crucial for demonstrating ROI and optimizing your approach. **[Measuring AI Impact in Development Teams](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)** (8-minute read) provides concrete metrics and tracking methodologies specifically designed for complex environments where traditional productivity measurements may not capture the full value of AI assistance in legacy codebases.
 
 ## The Long-Term Payoff
 
@@ -198,21 +198,21 @@ The monolith may be complex, but with the right strategies, it doesn't have to b
 ## 🔗 Related Posts in This Series
 
 ### **Next Steps**
-- **➡️ [Measuring AI Impact](measuring-ai-impact-beyond-gut-feeling.md)**: Track effectiveness of monolith strategies
-- **🔍 [Code Quality Diagnostics](ai-code-quality-detective-technical-debt.md)**: Use AI performance to identify refactoring opportunities
+- **➡️ [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)**: Track effectiveness of monolith strategies
+- **🔍 [Code Quality Diagnostics](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)**: Use AI performance to identify refactoring opportunities
 
 ### **Foundation Knowledge**
-- **📋 [Planning-First Methodology](planning-first-ai-methodology-foundation.md)**: Essential planning techniques for complex codebases
-- **📊 [Multi-Phase Planning](multi-phase-planning-documentation-bundles.md)**: Advanced coordination for large systems
+- **📋 [Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)**: Essential planning techniques for complex codebases
+- **📊 [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)**: Advanced coordination for large systems
 
 ### **Team Implementation**
-- **🤝 [Overcoming AI Resistance](overcoming-ai-resistance-smart-developers.md)**: Help teams persist through monolith challenges
-- **🎯 [Interview Method](ai-interview-method-scattered-thoughts.md)**: Document complex legacy system knowledge
+- **🤝 [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)**: Help teams persist through monolith challenges
+- **🎯 [Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)**: Document complex legacy system knowledge
 
 ---
 
-📚 **[⬅️ Back to AI Coding Mastery Series](ai-coding-mastery-series.md)**  
-⬅️ **Previous**: [Planning-First AI Methodology](planning-first-ai-methodology-foundation.md) | ➡️ **Next**: [Measuring AI Impact](measuring-ai-impact-beyond-gut-feeling.md)
+📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
+⬅️ **Previous**: [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) | ➡️ **Next**: [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)
 
 ---
 

@@ -10,17 +10,17 @@ The AI coding revolution isn't coming—it's here. While some developers and tea
 
 **Need immediate guidance? Jump directly to your most relevant topic:**
 
-🚀 **"New to AI coding tools"** → [AI Coding Revolution](#1-the-ai-coding-revolution) *(11 min - get the business case and competitive context)*
+🚀 **"New to AI coding tools"** → [AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide) *(11 min - get the business case and competitive context)*
 
-🔧 **"AI suggestions aren't working well"** → [Code Quality Detective](#7-code-quality-diagnostics) *(11 min - diagnose and fix AI performance issues)*
+🔧 **"AI suggestions aren't working well"** → [Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt) *(11 min - diagnose and fix AI performance issues)*
 
-📋 **"Need a systematic approach"** → [Planning-First Methodology](#2-planning-first-methodology) *(11 min - master the foundational methodology)*
+📋 **"Need a systematic approach"** → [Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) *(11 min - master the foundational methodology)*
 
-👥 **"Team won't adopt AI tools"** → [Overcoming Resistance](#8-overcoming-ai-resistance) *(12 min - change management strategies)*
+👥 **"Team won't adopt AI tools"** → [Overcoming Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers) *(12 min - change management strategies)*
 
-📊 **"Need to prove AI value/ROI"** → [Measuring Velocity Gains](#4-measuring-ai-impact) *(12 min - quantify productivity improvements)*
+📊 **"Need to prove AI value/ROI"** → [Measuring Velocity Gains](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) *(12 min - quantify productivity improvements)*
 
-⚙️ **"Complex legacy codebase challenges"** → [Monolithic Challenges](#3-monolith-strategies) *(11 min - context management for complex systems)*
+⚙️ **"Complex legacy codebase challenges"** → [Monolithic Challenges](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies) *(11 min - context management for complex systems)*
 
 ---
 
@@ -29,7 +29,7 @@ The AI coding revolution isn't coming—it's here. While some developers and tea
 ### 🚀 **Strategic Executive Pathway** (4-6 weeks, 2-3 hours total)
 *For leaders who need to understand AI coding's business impact and guide organizational adoption decisions*
 
-**Recommended Reading Order**: [Transformation Overview](#1-the-ai-coding-revolution) → [Measuring Velocity Gains](#4-measuring-ai-impact) → [Overcoming Resistance](#8-overcoming-ai-resistance)
+**Recommended Reading Order**: [Transformation Overview](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide) → [Measuring Velocity Gains](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) → [Overcoming Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)
 
 **What You'll Learn**:
 - Why AI coding creates competitive advantages (and risks of waiting)
@@ -44,14 +44,14 @@ The AI coding revolution isn't coming—it's here. While some developers and tea
 ### ⚡ **Technical Mastery Pathway** (6-8 weeks, 6-7 hours total)
 *For developers who want to become genuinely skilled at AI-assisted development*
 
-**Core Foundation** (Start Here): [Planning-First Methodology](#2-planning-first-methodology) → [Code Quality Detective](#7-code-quality-diagnostics)
+**Core Foundation** (Start Here): [Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) → [Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)
 
 **Advanced Techniques** (Choose Based on Needs):
-- **Complex Projects**: [Documentation Bundles](#6-multi-phase-planning) 
-- **Knowledge Capture**: [Interview Method](#5-interview-method)
-- **Legacy Systems**: [Monolithic Challenges](#3-monolith-strategies)
+- **Complex Projects**: [Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) 
+- **Knowledge Capture**: [Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)
+- **Legacy Systems**: [Monolithic Challenges](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)
 
-**Context & Measurement**: [Measuring Velocity](#4-measuring-ai-impact) → [Transformation Overview](#1-the-ai-coding-revolution)
+**Context & Measurement**: [Measuring Velocity](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) → [Transformation Overview](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)
 
 **What You'll Learn**:
 - Systematic methodology that makes AI collaboration reliable
@@ -81,7 +81,7 @@ The AI coding revolution isn't coming—it's here. While some developers and tea
 ### 📊 **Evidence-Based Validation Pathway** (8-12 weeks, systematic validation)
 *For cautious teams who want proof before committing to AI adoption*
 
-**Recommended Reading Order**: [Measuring Velocity Gains](#4-measuring-ai-impact) → [Code Quality Detective](#7-code-quality-diagnostics) → [Planning-First Methodology](#2-planning-first-methodology) → [Transformation Overview](#1-the-ai-coding-revolution) → Selective deep-dive based on results
+**Recommended Reading Order**: [Measuring Velocity Gains](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) → [Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt) → [Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) → [Transformation Overview](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide) → Selective deep-dive based on results
 
 **What You'll Learn**:
 - How to measure AI productivity objectively
@@ -100,13 +100,13 @@ The AI coding revolution isn't coming—it's here. While some developers and tea
 ### 🔍 **Problem Classification Diagnostic**
 
 **1. What's your primary challenge?**
-- **Code quality issues** - AI suggestions are poor, irrelevant, or introduce bugs → **[Code Quality Detective](#7-code-quality-diagnostics)** *(11 min)*
-- **Team resistance** - Developers avoid or resist AI tools → **[Overcoming Resistance](#8-overcoming-ai-resistance)** *(12 min)*  
-- **Planning confusion** - Unclear how to structure AI collaboration effectively → **[Planning-First Methodology](#2-planning-first-methodology)** *(11 min)*
-- **Tool selection/setup** - Don't know which AI tools to use or how to configure them → **[Planning-First Methodology](#2-planning-first-methodology)** *(section: "Choosing Your AI Tools")*
-- **Context management** - AI loses context in large codebases or complex projects → **[Monolithic Challenges](#3-monolith-strategies)** *(11 min)*
-- **Complex requirements** - Need help organizing scattered thoughts or complex documentation → **[Interview Method](#5-interview-method)** *(12 min)*
-- **ROI/business value** - Need to measure or demonstrate AI productivity gains → **[Measuring Velocity Gains](#4-measuring-ai-impact)** *(12 min)*
+- **Code quality issues** - AI suggestions are poor, irrelevant, or introduce bugs → **[Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)** *(11 min)*
+- **Team resistance** - Developers avoid or resist AI tools → **[Overcoming Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)** *(12 min)*  
+- **Planning confusion** - Unclear how to structure AI collaboration effectively → **[Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** *(11 min)*
+- **Tool selection/setup** - Don't know which AI tools to use or how to configure them → **[Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** *(section: "Choosing Your AI Tools")*
+- **Context management** - AI loses context in large codebases or complex projects → **[Monolithic Challenges](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)** *(11 min)*
+- **Complex requirements** - Need help organizing scattered thoughts or complex documentation → **[Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)** *(12 min)*
+- **ROI/business value** - Need to measure or demonstrate AI productivity gains → **[Measuring Velocity Gains](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)** *(12 min)*
 
 **2. How urgent is your timeline?**
 - **Immediate** (today/this week) → Follow direct links above
@@ -114,9 +114,9 @@ The AI coding revolution isn't coming—it's here. While some developers and tea
 - **Long-term** (2+ months) → Choose appropriate [complete pathway](#choose-your-journey) above
 
 **3. What's your experience level with AI coding?**
-- **Beginner** → Start with [AI Coding Revolution](#1-the-ai-coding-revolution) for essential context
+- **Beginner** → Start with [AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide) for essential context
 - **Intermediate** → Proceed directly to problem-specific guidance above
-- **Advanced** → Consider [Multi-Phase Planning](#6-multi-phase-planning) or [Code Quality Detective](#7-code-quality-diagnostics)
+- **Advanced** → Consider [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) or [Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)
 
 **4. Do you need a quick win or comprehensive solution?**
 - **Quick win** → Use direct problem links in question 1
@@ -126,7 +126,7 @@ The AI coding revolution isn't coming—it's here. While some developers and tea
 - **Individual skill building** → [Technical Mastery Pathway](#technical-mastery-pathway)
 - **Team adoption challenges** → [Strategic Executive Pathway](#strategic-executive-pathway)  
 - **Organization-wide change** → [Evidence-Based Validation Pathway](#evidence-based-validation-pathway)
-- **Still need help?** → Try [Multi-Phase Planning](#6-multi-phase-planning) or [Code Quality Detective](#7-code-quality-diagnostics)
+- **Still need help?** → Try [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) or [Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)
 
 ---
 
@@ -135,7 +135,7 @@ The AI coding revolution isn't coming—it's here. While some developers and tea
 ### **Tier 1: Core Foundation** 
 *Essential reading for all teams*
 
-#### 1. [The AI Coding Revolution: Your Team's Survival Guide](ai-coding-revolution-team-survival-guide.md)
+#### 1. [The AI Coding Revolution: Your Team's Survival Guide](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)
 **🎯 Purpose**: Compelling business case for immediate AI adoption  
 **📖 Length**: 2,243 words | ⏱️ **11 min read** | 🎚️ **Beginner**  
 **👥 Best For**: Business leaders, team managers, decision makers
@@ -146,7 +146,7 @@ Transform your team's competitive position through strategic AI adoption. Unders
 
 ---
 
-#### 2. [Planning-First AI Methodology: The Foundation of Success](planning-first-ai-methodology-foundation.md)
+#### 2. [Planning-First AI Methodology: The Foundation of Success](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)
 **🎯 Purpose**: Establish core methodology for all AI coding work  
 **📖 Length**: 2,274 words | ⏱️ **11 min read** | 🎚️ **Beginner-Intermediate**  
 **👥 Best For**: Technical practitioners, implementation teams
@@ -157,7 +157,7 @@ Master the fundamental approach that separates AI coding success from failure. L
 
 ---
 
-#### 3. [Taming the Monolith: AI Strategies for Legacy Systems](taming-monolith-ai-legacy-strategies.md)
+#### 3. [Taming the Monolith: AI Strategies for Legacy Systems](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)
 **🎯 Purpose**: Overcome context limitations in complex existing codebases  
 **📖 Length**: 2,267 words | ⏱️ **11 min read** | 🎚️ **Intermediate**  
 **👥 Best For**: Developers working with legacy systems, technical leads
@@ -168,7 +168,7 @@ Transform AI struggles in complex codebases into systematic success. Understand 
 
 ---
 
-#### 4. [Measuring AI Impact: Beyond the Gut Feeling](measuring-ai-impact-beyond-gut-feeling.md)
+#### 4. [Measuring AI Impact: Beyond the Gut Feeling](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)
 **🎯 Purpose**: Quantify and validate AI productivity improvements  
 **📖 Length**: 2,317 words | ⏱️ **12 min read** | 🎚️ **Beginner-Intermediate**  
 **👥 Best For**: Team leads, managers, data-driven practitioners
@@ -182,7 +182,7 @@ Move beyond subjective impressions to measurable productivity gains. Implement s
 ### **Tier 2: Specialized Techniques**
 *Advanced methodologies for specific scenarios*
 
-#### 5. [The AI Interview Method: Transform Scattered Thoughts into Professional Content](ai-interview-method-scattered-thoughts.md)
+#### 5. [The AI Interview Method: Transform Scattered Thoughts into Professional Content](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)
 **🎯 Purpose**: Leverage AI for knowledge extraction and content creation  
 **📖 Length**: 2,413 words | ⏱️ **12 min read** | 🎚️ **Intermediate**  
 **👥 Best For**: Content creators, documentation teams, knowledge managers
@@ -193,7 +193,7 @@ Master the technique that transforms random thoughts into polished professional 
 
 ---
 
-#### 6. [Multi-Phase Planning: Managing Complex AI Projects with Documentation Bundles](multi-phase-planning-documentation-bundles.md)
+#### 6. [Multi-Phase Planning: Managing Complex AI Projects with Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)
 **🎯 Purpose**: Advanced planning technique for enterprise-scale projects  
 **📖 Length**: 2,105 words | ⏱️ **11 min read** | 🎚️ **Advanced**  
 **👥 Best For**: Technical leads, enterprise architects, complex project managers
@@ -204,7 +204,7 @@ Scale AI collaboration to enterprise-level complexity. Master documentation bund
 
 ---
 
-#### 7. [AI as Your Code Quality Detective: Diagnostic Techniques for Technical Debt](ai-code-quality-detective-technical-debt.md)
+#### 7. [AI as Your Code Quality Detective: Diagnostic Techniques for Technical Debt](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)
 **🎯 Purpose**: Use AI performance as indicator of code quality issues  
 **📖 Length**: 2,166 words | ⏱️ **11 min read** | 🎚️ **Intermediate-Advanced**  
 **👥 Best For**: Technical leads, architecture teams, quality-focused developers
@@ -215,7 +215,7 @@ Transform AI struggles into systematic code quality improvements. Learn to recog
 
 ---
 
-#### 8. [Overcoming AI Resistance: Why Smart Developers Avoid AI Tools (And How to Change Their Minds)](overcoming-ai-resistance-smart-developers.md)
+#### 8. [Overcoming AI Resistance: Why Smart Developers Avoid AI Tools (And How to Change Their Minds)](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)
 **🎯 Purpose**: Change management and team adoption strategies  
 **📖 Length**: 2,402 words | ⏱️ **12 min read** | 🎚️ **Intermediate**  
 **👥 Best For**: Team leads, managers, change agents
@@ -229,24 +229,24 @@ Systematically address the psychological and organizational barriers that preven
 ## Quick Navigation by Topic
 
 ### **Getting Started**
-- New to AI coding? → [The AI Coding Revolution](#1-the-ai-coding-revolution)
-- Need a methodology? → [Planning-First AI Methodology](#2-planning-first-methodology)
-- Want to measure results? → [Measuring AI Impact](#4-measuring-ai-impact)
+- New to AI coding? → [The AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)
+- Need a methodology? → [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)
+- Want to measure results? → [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)
 
 ### **Specific Challenges**
-- Legacy codebase struggles? → [Taming the Monolith](#3-monolith-strategies)
-- Team resistance? → [Overcoming AI Resistance](#8-overcoming-ai-resistance)
-- Complex project coordination? → [Multi-Phase Planning](#6-multi-phase-planning)
+- Legacy codebase struggles? → [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)
+- Team resistance? → [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)
+- Complex project coordination? → [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)
 
 ### **Advanced Techniques**
-- Content creation needs? → [The AI Interview Method](#5-interview-method)
-- Code quality concerns? → [AI as Your Code Quality Detective](#7-code-quality-diagnostics)
-- Enterprise-scale coordination? → [Multi-Phase Planning](#6-multi-phase-planning)
+- Content creation needs? → [The AI Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)
+- Code quality concerns? → [AI as Your Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)
+- Enterprise-scale coordination? → [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)
 
 ### **Implementation Support**
-- Want systematic tracking? → [Measuring AI Impact](#4-measuring-ai-impact)
-- Building team capabilities? → [Overcoming AI Resistance](#8-overcoming-ai-resistance)
-- Complex project coordination? → [Multi-Phase Planning](#6-multi-phase-planning)
+- Want systematic tracking? → [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)
+- Building team capabilities? → [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)
+- Complex project coordination? → [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)
 
 ---
 
@@ -283,19 +283,19 @@ By completing this series, development teams will:
 ## Reading Recommendations by Role
 
 ### **CTOs and Engineering Managers**
-**Priority Reading**: [Revolution](#1-the-ai-coding-revolution) → [Measuring Impact](#4-measuring-ai-impact) → [Overcoming Resistance](#8-overcoming-ai-resistance)  
+**Priority Reading**: [Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide) → [Measuring Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) → [Overcoming Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)  
 **Focus**: Business case, ROI measurement, change management
 
 ### **Technical Leads and Senior Developers**  
-**Priority Reading**: [Planning Methodology](#2-planning-first-methodology) → [Monolith Strategies](#3-monolith-strategies) → [Code Quality Diagnostics](#7-code-quality-diagnostics)  
+**Priority Reading**: [Planning Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) → [Monolith Strategies](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies) → [Code Quality Diagnostics](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)  
 **Focus**: Implementation frameworks, technical strategies, quality improvement
 
 ### **Individual Contributors**
-**Priority Reading**: [Planning Methodology](#2-planning-first-methodology) → [Interview Method](#5-interview-method) → [Code Quality Detective](#7-code-quality-diagnostics)  
+**Priority Reading**: [Planning Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) → [Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) → [Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)  
 **Focus**: Personal productivity, specific techniques, skill development
 
 ### **DevOps and Platform Teams**
-**Priority Reading**: [Monolith Strategies](#3-monolith-strategies) → [Multi-Phase Planning](#6-multi-phase-planning) → [Code Quality Detective](#7-code-quality-diagnostics)  
+**Priority Reading**: [Monolith Strategies](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies) → [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) → [Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)  
 **Focus**: Infrastructure considerations, enterprise coordination, complex system management
 
 ---

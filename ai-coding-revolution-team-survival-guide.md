@@ -3,8 +3,8 @@
 *A developer's perspective on mastering AI coding tools for competitive advantage*
 
 ---
-📚 **[AI Coding Mastery Series](ai-coding-mastery-series.md)** | **Post 1 of 8**  
-⬅️ **Previous**: [Series Introduction](ai-coding-mastery-series.md) | ➡️ **Next**: [Planning-First AI Methodology](planning-first-ai-methodology-foundation.md)
+📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 1 of 8**  
+⬅️ **Previous**: [Series Introduction](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series) | ➡️ **Next**: [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)
 
 **🎯 Best For**: Business leaders, team managers, decision makers  
 **⏱️ Reading Time**: 11 minutes | **🎚️ Difficulty**: Beginner
@@ -51,7 +51,7 @@ The real obstacle isn't the AI tools themselves—it's our own perseverance in l
 
 This creates a unique psychological challenge. When the AI doesn't do what you want or when you hit roadblocks in your collaboration approach, it's tempting to abandon the AI and fall back to manual methods. The developers who succeed are those who push through these moments of frustration and continue experimenting with different approaches.
 
-These psychological barriers are often more significant than the technical challenges, and they affect even highly skilled developers. **[Overcoming AI Resistance: Why Smart Developers Avoid AI Tools](overcoming-ai-resistance-smart-developers.md)** (14-minute read) provides systematic strategies for addressing the emotional and professional concerns that cause talented developers to avoid or abandon AI tools, including impostor syndrome, fear of becoming obsolete, and the discomfort of uncertain learning curves.
+These psychological barriers are often more significant than the technical challenges, and they affect even highly skilled developers. **[Overcoming AI Resistance: Why Smart Developers Avoid AI Tools](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)** (14-minute read) provides systematic strategies for addressing the emotional and professional concerns that cause talented developers to avoid or abandon AI tools, including impostor syndrome, fear of becoming obsolete, and the discomfort of uncertain learning curves.
 
 ### Why Generic Guidance Isn't Enough
 
@@ -59,7 +59,7 @@ The field of AI-assisted development is so new that comprehensive, generic guida
 
 This intuition can only be developed by investing significant time with the tools, failing repeatedly, and gradually learning what works in different contexts. It's similar to how we traditionally learned programming—through trial, error, and gradual pattern recognition.
 
-However, this doesn't mean you should rely entirely on trial-and-error learning. Systematic approaches that provide structure for AI collaboration can dramatically accelerate the learning process and reduce frustration. **[Planning-First AI Methodology](planning-first-ai-methodology-foundation.md)** (18-minute read) offers a proven framework that transforms unpredictable AI interactions into reliable partnerships, providing the foundational structure that makes intuition-building much more efficient.
+However, this doesn't mean you should rely entirely on trial-and-error learning. Systematic approaches that provide structure for AI collaboration can dramatically accelerate the learning process and reduce frustration. **[Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** (18-minute read) offers a proven framework that transforms unpredictable AI interactions into reliable partnerships, providing the foundational structure that makes intuition-building much more efficient.
 
 ## Current Adoption Patterns: A Mixed Landscape
 
@@ -67,7 +67,7 @@ The adoption of AI coding tools across development teams is highly variable, wit
 
 **The Project Context Problem**: On greenfield projects, AI tools can deliver exceptional results. However, on monolithic or legacy codebases, effectiveness drops significantly. This creates a problematic cycle where developers experience poor results on complex systems and conclude AI coding isn't useful.
 
-The challenges with established codebases aren't insurmountable, but they require completely different strategies than greenfield development. **[Taming the Monolith: AI Coding in Complex Legacy Codebases](taming-monolith-ai-legacy-strategies.md)** (20-minute read) provides comprehensive guidance for overcoming context limitations, managing technical debt, and working within the constraints that make legacy systems challenging for AI collaboration. Understanding these challenges upfront helps set realistic expectations and prevents teams from abandoning AI tools due to early frustrations in complex environments.
+The challenges with established codebases aren't insurmountable, but they require completely different strategies than greenfield development. **[Taming the Monolith: AI Coding in Complex Legacy Codebases](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)** (20-minute read) provides comprehensive guidance for overcoming context limitations, managing technical debt, and working within the constraints that make legacy systems challenging for AI collaboration. Understanding these challenges upfront helps set realistic expectations and prevents teams from abandoning AI tools due to early frustrations in complex environments.
 
 **The Frequency Gap**: Most developers are "dabbling regularly" with AI tools but aren't using them as constant companions. This intermittent usage means AI-appropriate tasks are overlooked because developers aren't in the habit of reaching for these tools consistently.
 
@@ -106,23 +106,23 @@ Accept that learning to work effectively with AI coding tools will initially req
 
 Begin your AI coding journey with new development projects where the tools are most effective. Build confidence and skills in these contexts before tackling more challenging legacy codebases.
 
-Once you're ready to tackle established systems, the strategies and expectations are completely different. **[Taming the Monolith: AI Coding in Complex Legacy Codebases](taming-monolith-ai-legacy-strategies.md)** (20-minute read) provides comprehensive guidance for overcoming context limitations, managing technical debt, and working within the constraints that make legacy systems challenging for AI collaboration.
+Once you're ready to tackle established systems, the strategies and expectations are completely different. **[Taming the Monolith: AI Coding in Complex Legacy Codebases](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)** (20-minute read) provides comprehensive guidance for overcoming context limitations, managing technical debt, and working within the constraints that make legacy systems challenging for AI collaboration.
 
 ### 3. Implement Structured AI Methodologies
 
 Don't rely on trial-and-error approaches alone. Train your team to use proven AI collaboration frameworks that systematically increase success rates and reduce frustration.
 
-**Core methodology**: **[Planning-First AI Methodology](planning-first-ai-methodology-foundation.md)** (19-minute read) provides the foundational framework for reliable AI collaboration.
+**Core methodology**: **[Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)** (19-minute read) provides the foundational framework for reliable AI collaboration.
 
-**Complex projects**: **[Multi-Phase Planning Documentation Bundle](multi-phase-planning-documentation-bundles.md)** (17-minute read) handles enterprise-scale coordination and systematic documentation.
+**Complex projects**: **[Multi-Phase Planning Documentation Bundle](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)** (17-minute read) handles enterprise-scale coordination and systematic documentation.
 
-**Knowledge capture**: **[The Interview Method](ai-interview-method-scattered-thoughts.md)** (19-minute read) transforms scattered thoughts into structured professional content.
+**Knowledge capture**: **[The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)** (19-minute read) transforms scattered thoughts into structured professional content.
 
 ### 4. Address Team Resistance Systematically
 
 Create structured programs for overcoming psychological barriers and building team-wide adoption. The technical challenges of AI implementation are often overshadowed by human factors that can derail adoption efforts.
 
-**[Overcoming AI Resistance: Why Smart Developers Avoid AI Tools and How to Help Them Adapt](overcoming-ai-resistance-smart-developers.md)** (14-minute read) provides comprehensive change management strategies specifically designed for the unique psychological challenges developers face when adopting AI tools, including impostor syndrome, fear of becoming obsolete, and the discomfort of uncertain learning curves.
+**[Overcoming AI Resistance: Why Smart Developers Avoid AI Tools and How to Help Them Adapt](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)** (14-minute read) provides comprehensive change management strategies specifically designed for the unique psychological challenges developers face when adopting AI tools, including impostor syndrome, fear of becoming obsolete, and the discomfort of uncertain learning curves.
 
 ### 5. Build Internal Knowledge Sharing
 
@@ -161,7 +161,7 @@ Establish systems for developers who successfully use AI tools to mentor and gui
 **Month 2**: 20-50% productivity increase in AI-appropriate tasks  
 **Month 3+**: 2-4x productivity gains in optimal AI collaboration scenarios
 
-Validating these ROI projections with concrete metrics is essential for continued organizational support and optimization efforts. **[Measuring AI Impact in Development Teams](measuring-ai-impact-beyond-gut-feeling.md)** (8-minute read) provides systematic frameworks for tracking productivity improvements, documenting case studies, and building compelling business cases that justify continued investment in AI development tools and training.
+Validating these ROI projections with concrete metrics is essential for continued organizational support and optimization efforts. **[Measuring AI Impact in Development Teams](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)** (8-minute read) provides systematic frameworks for tracking productivity improvements, documenting case studies, and building compelling business cases that justify continued investment in AI development tools and training.
 
 ## The Future is Already Here
 
@@ -178,21 +178,21 @@ The AI coding revolution isn't coming—it's here. The question is whether you'l
 ## 🔗 Related Posts in This Series
 
 ### **Next Steps**
-- **➡️ [Planning-First AI Methodology](planning-first-ai-methodology-foundation.md)**: Learn the foundational approach that separates AI success from failure
-- **📊 [Measuring AI Impact](measuring-ai-impact-beyond-gut-feeling.md)**: Implement systematic tracking to validate your ROI
+- **➡️ [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)**: Learn the foundational approach that separates AI success from failure
+- **📊 [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)**: Implement systematic tracking to validate your ROI
 
 ### **Addressing Common Challenges**  
-- **🤝 [Overcoming AI Resistance](overcoming-ai-resistance-smart-developers.md)**: Change management strategies for reluctant teams
-- **🏗️ [Taming the Monolith](taming-monolith-ai-legacy-strategies.md)**: Strategies for complex legacy codebases
+- **🤝 [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)**: Change management strategies for reluctant teams
+- **🏗️ [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)**: Strategies for complex legacy codebases
 
 ### **Advanced Implementation**
-- **🎯 [Interview Method](ai-interview-method-scattered-thoughts.md)**: Transform scattered thoughts into professional content
-- **🔍 [Code Quality Diagnostics](ai-code-quality-detective-technical-debt.md)**: Use AI performance to identify technical debt
+- **🎯 [Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)**: Transform scattered thoughts into professional content
+- **🔍 [Code Quality Diagnostics](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)**: Use AI performance to identify technical debt
 
 ---
 
-📚 **[⬅️ Back to AI Coding Mastery Series](ai-coding-mastery-series.md)**  
-➡️ **Next**: [Planning-First AI Methodology](planning-first-ai-methodology-foundation.md)
+📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
+➡️ **Next**: [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)
 
 ---
 
