@@ -1,4 +1,11 @@
-# AI Coding Mastery Series: Complete Guide to Development Team Transformation
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <h1>AI Coding Mastery Series: Complete Guide to Development Team Transformation</h1>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <img src="Images/ai-coding-mastery-series.png" alt="AI Coding Mastery Series" style="max-width: 300px; height: auto;">
+  </div>
+</div>
 
 *A comprehensive 8-post series that takes development teams from AI skepticism to competitive advantage through systematic implementation strategies*
 

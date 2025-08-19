@@ -1,13 +1,15 @@
-# AI as Your Code Quality Detective: Using AI Struggles to Identify Technical Debt
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <h1>AI as Your Code Quality Detective: Using AI Struggles to Identify Technical Debt</h1>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <img src="Images/ai-code-quality-detective-technical-debt.png" alt="AI Code Quality Detective" style="max-width: 300px; height: auto;">
+  </div>
+</div>
 
 *How AI performance degradation reveals hidden code quality issues and creates opportunities for strategic refactoring*
 
----
-📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 7 of 8**  
-⬅️ **Previous**: [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) | ➡️ **Next**: [Overcoming AI Resistance in Teams](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)
-
-**🎯 Best For**: Technical leads, architecture teams, quality-focused developers  
-**⏱️ Reading Time**: 11 minutes | **🎚️ Difficulty**: Intermediate-Advanced
+**⏱️ Reading Time**: 11 minutes
 
 ---
 
@@ -22,6 +24,10 @@ This diagnostic capability transforms AI from merely a coding assistant into a q
 AI coding tools excel in clean, well-structured codebases but struggle dramatically in areas with poor code quality. This isn't a limitation—it's a feature. The same structural problems that confuse AI agents also confuse human developers, making AI performance a reliable proxy for code quality assessment.
 
 When you consistently see AI underperform in specific areas, you're witnessing automated feedback about code that likely violates fundamental software engineering principles.
+
+<div style="text-align: center;">
+<img src="Diagrams/ai-code-quality-detective-technical-debt/core-concept-ai-performance-code-quality-correlation.png" width="500px">
+</div>
 
 ### Why AI Struggles Correlate with Code Quality
 
@@ -82,6 +88,8 @@ Not every AI struggle indicates code quality problems. Consider these factors:
 
 ## The Diagnostic Process
 
+<img src="Diagrams/ai-code-quality-detective-technical-debt/diagnostic-process-flowchart.png" width="440px" alt="Diagnostic Process Flowchart" style="float: left; margin: 0 30px 20px 0;">
+
 ### Step 1: Pattern Identification
 
 When AI struggles become apparent, conduct a systematic assessment:
@@ -104,7 +112,7 @@ Evaluate problematic areas against core software engineering principles:
 
 **Interface Segregation**: Are interfaces focused and clients not forced to depend on methods they don't use?
 
-**KISS (Keep It Simple, Stupid)**: Is the code as simple as possible while still meeting requirements?
+**KISS (Keep It Simple, Stupid)**: Is the code as simple as possible while still meet requirements?
 
 **YAGNI (You Aren't Gonna Need It)**: Is the code free from premature optimization and unnecessary complexity?
 
@@ -281,17 +289,16 @@ Your future self, your teammates, and your AI collaborators will all benefit fro
 
 ---
 
-## Related Posts and Navigation
+### **Related Posts**
 
-**Related Deep Dives**:
-- 🔍 [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) - Foundation for systematic AI collaboration
-- 📊 [Measuring AI Impact Beyond Gut Feeling](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) - Metrics and measurement frameworks for AI development
-- 💬 [AI Interview Method for Scattered Requirements](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) - Collaborative requirement gathering techniques
+**Essential Reading:**
+- [Planning-First AI Methodology Foundation](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) - *Systematic approaches that reveal code quality patterns*
+- [Taming the Monolith: AI Legacy Code Strategies](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies) - *Apply quality detective techniques to legacy systems*
+- [Measuring AI Impact Beyond Gut Feeling](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) - *Quantify the business value of quality improvements*
 
----
-
-📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
-⬅️ **Previous**: [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) | ➡️ **Next**: [Overcoming AI Resistance in Teams](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)
+**Dive Deeper:**
+- [AI Interview Method for Scattered Thoughts](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) - *Extract quality insights through systematic questioning*
+- [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) - *Coordinate quality improvements across complex systems*
 
 ---
 

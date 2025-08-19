@@ -1,13 +1,15 @@
-# Why Smart Developers Resist AI Coding Tools
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <h1>Why Smart Developers Resist AI Coding Tools</h1>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <img src="Images/overcoming-ai-resistance-smart-developers.png" alt="Overcoming AI Resistance Smart Developers" style="max-width: 300px; height: auto;">
+  </div>
+</div>
 
 *Understanding the psychology of AI adoption resistance and building successful change management strategies for development teams*
 
----
-📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 8 of 8**  
-⬅️ **Previous**: [AI as Your Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt) | ➡️ **Next**: [AI Coding Mastery Series Overview](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)
-
-**🎯 Best For**: Team leads, managers, change agents  
-**⏱️ Reading Time**: 12 minutes | **🎚️ Difficulty**: Intermediate
+**⏱️ Reading Time**: 12 minutes
 
 ---
 
@@ -32,6 +34,10 @@ This creates a unique psychological dynamic that undermines learning persistence
 **Competence Confidence**: Knowing you can solve the problem manually makes AI collaboration feel optional rather than necessary.
 
 These pressures combine to create a powerful psychological force that pulls developers away from AI learning at exactly the moment when persistence would lead to breakthrough understanding.
+
+<div style="text-align: center;">
+<img src="Diagrams/overcoming-ai-resistance-smart-developers/fallback-problem-cycle.png" width="500px">
+</div>
 
 ### The Deepening Rut Effect
 
@@ -251,20 +257,16 @@ Overcoming AI resistance is an ongoing process of cultural development and skill
 
 ---
 
-📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
-⬅️ **Previous**: [AI as Your Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt) | ➡️ **Next**: [AI Coding Mastery Series Overview](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)
+### **Related Posts**
 
----
+**Essential Reading:**
+- [The AI Coding Revolution: Team Survival Guide](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide) - *Build the strategic foundation for AI adoption*
+- [Measuring AI Impact Beyond Gut Feeling](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) - *Use data to address team skepticism and resistance*
+- [Planning-First AI Methodology Foundation](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) - *Systematic approaches that build team confidence*
 
-## Related Posts and Navigation
-
-**📚 [AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** - Complete series overview and reading guide
-
-**Related Deep Dives**:
-- 🔍 [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) - Foundation for systematic AI collaboration
-- 📊 [Measuring AI Impact Beyond Gut Feeling](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling) - Metrics and measurement frameworks for AI development
-- 💬 [AI Interview Method for Scattered Requirements](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) - Collaborative requirement gathering techniques
-- 📋 [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) - Managing complex AI projects
+**Dive Deeper:**
+- [AI Interview Method for Scattered Thoughts](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) - *Collaborative techniques for team knowledge sharing*
+- [AI Code Quality Detective: Hunting Technical Debt](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt) - *Quality-focused approaches that appeal to technical teams*
 
 ---
 

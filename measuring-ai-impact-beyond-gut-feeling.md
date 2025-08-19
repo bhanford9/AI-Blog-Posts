@@ -1,14 +1,15 @@
-# Beyond**🎯 Best For**: Team leads, managers, data-driven practitioners  
-**⏱️ Reading Time**: 12 minutes | **🎚️ Difficulty**: Beginner-Intermediatehe Gut Feeling: How to Actually Measure AI's Impact on Development Velocity
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <h1>Beyond the Gut Feeling: How to Actually Measure AI's Impact on Development Velocity</h1>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <img src="Images/measuring-ai-impact-beyond-gut-feeling.png" alt="Measuring AI Impact Beyond Gut Feeling" style="max-width: 300px; height: auto;">
+  </div>
+</div>
 
 *An exploration of the challenges and approaches to quantifying whether AI coding assistants really make us faster*
 
----
-📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 4 of 8**  
-⬅️ **Previous**: [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies) | ➡️ **Next**: [The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)
-
-**🎯 Best For**: Team leads, managers, data-driven practitioners  
-**⏱️ Reading Time**: 13 minutes | **🎚️ Difficulty**: Beginner-Intermediate
+**⏱️ Reading Time**: 13 minutes
 
 ---
 
@@ -301,27 +302,16 @@ The future of software development is being written right now, one AI-assisted c
 
 ---
 
-## 🔗 Related Posts in This Series
+### **Related Posts**
 
-### **Next Steps**
-- **➡️ [The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)**: Advanced knowledge extraction and structured documentation
-- **🔍 [Code Quality Diagnostics](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)**: Use AI performance to identify technical debt
+**Essential Reading:**
+- [The AI Coding Revolution: Team Survival Guide](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide) - *Build the business case for AI investment*
+- [Planning-First AI Methodology Foundation](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) - *Systematic approaches that enable measurable results*
+- [Overcoming AI Resistance from Smart Developers](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers) - *Use data to address team skepticism*
 
-### **Implementation Support**
-- **📋 [Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)**: Foundational framework for reliable AI collaboration
-- **🤝 [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)**: Change management strategies for team adoption
-
-### **Context and Strategy**
-- **🚀 [AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)**: Strategic business case and competitive context
-- **🏗️ [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)**: Measuring AI effectiveness in complex legacy systems
-
-### **Advanced Techniques**
-- **📊 [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)**: Enterprise-scale project coordination and measurement
-
----
-
-📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
-⬅️ **Previous**: [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies) | ➡️ **Next**: [The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)
+**Dive Deeper:**
+- [AI Code Quality Detective: Hunting Technical Debt](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt) - *Quality metrics that complement velocity measurements*
+- [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) - *Enterprise-scale measurement strategies*
 
 ---
 

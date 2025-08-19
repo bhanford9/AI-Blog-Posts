@@ -1,13 +1,15 @@
-# Taming the Monolith: How to Make AI Coding Tools Work in Complex Legacy Codebases
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <h1>Taming the Monolith: How to Make AI Coding Tools Work in Complex Legacy Codebases</h1>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <img src="Images/taming-monolith-ai-legacy-strategies.png" alt="Taming Monolith AI Legacy Strategies" style="max-width: 300px; height: auto;">
+  </div>
+</div>
 
 *Strategies for overcoming context limitations and maximizing AI effectiveness in established projects*
 
----
-📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 3 of 8**  
-⬅️ **Previous**: [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) | ➡️ **Next**: [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)
-
-**🎯 Best For**: Developers working with legacy systems, technical leads  
-**⏱️ Reading Time**: 11 minutes | **🎚️ Difficulty**: Intermediate
+**⏱️ Reading Time**: 11 minutes
 
 ---
 
@@ -25,11 +27,19 @@ To understand why AI tools struggle with large codebases, imagine the AI's conte
 
 Once the bucket is full, the AI faces an impossible choice: it can't consume new information without discarding something it already knows. For large tasks that span across the entire codebase, this limitation makes comprehensive understanding nearly impossible.
 
+<div style="text-align: center;">
+<img src="Diagrams/taming-monolith-ai-legacy-strategies/context-bucket-problem-comparison.png" width="500px">
+</div>
+
 ### The Effective Context Dilemma
 
 Beyond the quantity problem lies a quality issue we'll refer to as "effective context." Even when the AI's context bucket isn't completely full, the effectiveness of that context degrades as it becomes more diverse and scattered.
 
-Think of it this way: if you throw Iron Man, Hulk, and Thor figurines into a bucket, someone can effectively classify the contents as "Marvel action figures." But if you throw in a pencil, a pinecone, and a pack of gum, no one can meaningfully categorize what's in the bucket. 
+Think of it this way: if you throw Iron Man, Hulk, and Thor figurines into a bucket, someone can effectively classify the contents as "Marvel action figures." But if you throw in a pencil, a pinecone, and a pack of gum, no one can meaningfully categorize what's in the bucket.
+
+<div style="text-align: center;">
+<img src="Diagrams/taming-monolith-ai-legacy-strategies/effective-context-degradation-analogy.png" width="500px">
+</div>
 
 AI context works similarly. It's much more effective when knowledge grows within a confined category rather than trying to consume disparate parts of a large codebase. The more widespread and varied the knowledge becomes, the less effectively the AI can reason about any individual piece.
 
@@ -195,31 +205,13 @@ The monolith may be complex, but with the right strategies, it doesn't have to b
 
 ---
 
-## 🔗 Related Posts in This Series
+### **Related Posts**
 
-### **Next Steps**
-- **➡️ [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)**: Track effectiveness of monolith strategies
-- **🔍 [Code Quality Diagnostics](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)**: Use AI performance to identify refactoring opportunities
+**Essential Reading:**
+- [The AI Coding Revolution: Team Survival Guide](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide) - *Strategic foundation for legacy system transformation*
+- [Planning-First AI Methodology Foundation](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) - *Essential preparation for complex legacy work*
+- [AI Code Quality Detective: Hunting Technical Debt](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt) - *Identify and prioritize legacy improvement opportunities*
 
-### **Foundation Knowledge**
-- **📋 [Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)**: Essential planning techniques for complex codebases
-- **📊 [Multi-Phase Planning](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles)**: Advanced coordination for large systems
-
-### **Team Implementation**
-- **🤝 [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)**: Help teams persist through monolith challenges
-- **🎯 [Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)**: Document complex legacy system knowledge
-
----
-
-📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
-⬅️ **Previous**: [Planning-First AI Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) | ➡️ **Next**: [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)
-
----
-
-
-
-
-
-
-
-
+**Dive Deeper:**
+- [Multi-Phase Planning Documentation Bundles](https://bhanford9.github.io/AI-Blog-Posts/multi-phase-planning-documentation-bundles) - *Coordinate complex legacy transformations*
+- [AI Interview Method for Scattered Thoughts](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) - *Extract and organize legacy system knowledge*

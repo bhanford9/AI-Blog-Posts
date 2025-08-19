@@ -1,13 +1,15 @@
-# Multi-Phase Planning: Managing Complex AI Projects with Documentation Bundles
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <h1>Multi-Phase Planning: Managing Complex AI Projects with Documentation Bundles</h1>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <img src="Images/multi-phase-planning-documentation-bundles.png" alt="Multi Phase Planning Documentation Bundles" style="max-width: 300px; height: auto;">
+  </div>
+</div>
 
 *When simple planning isn't enough: A systematic approach to tackling enterprise-scale integration projects using AI collaboration*
 
----
-📚 **[AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)** | **Post 6 of 8**  
-⬅️ **Previous**: [The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) | ➡️ **Next**: [AI as Your Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)
-
-**🎯 Best For**: Technical leads, enterprise architects, complex project managers  
-**⏱️ Reading Time**: 11 minutes | **🎚️ Difficulty**: Advanced
+**⏱️ Reading Time**: 11 minutes
 
 ---
 
@@ -36,6 +38,8 @@ The warning signs that you need Multi-Phase Planning include:
 
 ## The Multi-Phase Planning Process
 
+<img src="Diagrams/multi-phase-planning-documentation-bundles/01-multi-phase-planning-process-overview.png" style="max-width: 300px; float: left; margin-right: 20px">
+
 ### Phase 1: Documentation Bundle Creation
 Begin by creating focused documentation for each major component or service involved in your overall task. 
 
@@ -46,6 +50,8 @@ Begin by creating focused documentation for each major component or service invo
 - **Business Requirement Bundles**: User workflows, business logic, operational requirements  
 - **Integration Specification Bundles**: Interface definitions, data flow patterns, coordination requirements
 - **Infrastructure Bundles**: Deployment architecture, monitoring strategies, security requirements
+
+<img src="Diagrams/multi-phase-planning-documentation-bundles/02-documentation-bundle-types-matrix.png" style="max-width: 300px; float: right; margin-right: 20px">
 
 Each documentation bundle should include the elements most relevant to the task and your project and may have documents sourced from different bundle types.
 
@@ -84,6 +90,10 @@ Consider a software team developing solutions for a car dealership with multiple
 - **Two distinct Client GUIs**: Requiring employees to work across different applications
 
 **Business Goal**: Integrate all systems into a single solution with restructured backends, improved APIs, and unified GUI.
+
+<div style="text-align: center;">
+<img src="Diagrams/multi-phase-planning-documentation-bundles/03-car-dealership-current-vs-future-state.png" width="500px">
+</div>
 
 ### Documentation Bundle Phase
 Create focused documentation for each major component:
@@ -269,27 +279,16 @@ Whether you're integrating multiple business systems, modernizing complex legacy
 
 ---
 
-## 🔗 Related Posts in This Series
+### **Related Posts**
 
-### **Next Steps**
-- **➡️ [Code Quality Diagnostics](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)**: Use AI performance to identify technical debt in complex systems
-- **🤝 [Overcoming AI Resistance](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers)**: Lead enterprise-scale AI adoption and change management
+**Essential Reading:**
+- [Planning-First AI Methodology Foundation](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation) - *Master the foundation before scaling to multi-phase*
+- [AI Interview Method for Scattered Thoughts](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) - *Extract complex domain knowledge for documentation bundles*
+- [Taming the Monolith: AI Legacy Code Strategies](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies) - *Apply multi-phase approaches to legacy system challenges*
 
-### **Foundational Methods**
-- **📋 [Planning-First Methodology](https://bhanford9.github.io/AI-Blog-Posts/planning-first-ai-methodology-foundation)**: Core framework that Multi-Phase Planning extends
-- **🎯 [Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts)**: Knowledge extraction for documentation bundle creation
-
-### **Implementation and Measurement**
-- **📊 [Measuring AI Impact](https://bhanford9.github.io/AI-Blog-Posts/measuring-ai-impact-beyond-gut-feeling)**: Track effectiveness across complex multi-phase projects
-- **🏗️ [Taming the Monolith](https://bhanford9.github.io/AI-Blog-Posts/taming-monolith-ai-legacy-strategies)**: Apply Multi-Phase Planning to legacy system challenges
-
-### **Strategic Context**
-- **🚀 [AI Coding Revolution](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-revolution-team-survival-guide)**: Business case for enterprise-scale AI transformation
-
----
-
-📚 **[⬅️ Back to AI Coding Mastery Series](https://bhanford9.github.io/AI-Blog-Posts/ai-coding-mastery-series)**  
-⬅️ **Previous**: [The Interview Method](https://bhanford9.github.io/AI-Blog-Posts/ai-interview-method-scattered-thoughts) | ➡️ **Next**: [AI as Your Code Quality Detective](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt)
+**Dive Deeper:**
+- [AI Code Quality Detective: Hunting Technical Debt](https://bhanford9.github.io/AI-Blog-Posts/ai-code-quality-detective-technical-debt) - *Quality assessment across complex project phases*
+- [Overcoming AI Resistance from Smart Developers](https://bhanford9.github.io/AI-Blog-Posts/overcoming-ai-resistance-smart-developers) - *Build team consensus for complex AI methodologies*
 
 ---
 
